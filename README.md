@@ -5,7 +5,7 @@ NetworksAndUniMix.nlogo is a computer simulation written in NetLogo. It simulate
 
 There are a variety of social network structures to choose from - common library models, such as Strogatz & Watts small world, Barabasi-Albert scale free, Erdos-Renyi random, and regular networks such as 2-D grids and rings. We also include Hamill & Gilbert's (2009) social circles network, and a network based on real contact data published by Kissler et al. (and collected in conjunction with the BBC's 2018 TV programme, Pandemic). 
 
-For the Kissler network, you will need to download the two .csv datafiles and place them in the same folder as NetworksAndUniMix.nlogo.
+For the Kissler network, you will need to download the two .csv datafiles and place them in the same folder as NetworksAndUniMix.nlogo. The files were taken from Stephen Kissler's git at https://github.com/skissler/haslemere.
 
 The .xlsx file contains the results of experiments run using BehaviorSpace.
 
